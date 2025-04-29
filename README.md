@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zboutchyard
-- 👀 I’m an associate full stack software engineer. 
-- 🌱 I’m currently working full time in web development using Angular and nodeJS.  
+- 👀 I’m an senior mobile software engineer. 
+- 🌱 I’m currently working full time in mobile development using Swift and SwiftUI.  
 - 💞️ I’m looking to collaborate on different ideas for applications and concepts.  
 - 📫 How to reach me: zackboutchyard@gmail.com
 
